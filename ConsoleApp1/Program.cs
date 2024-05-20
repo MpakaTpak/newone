@@ -2,7 +2,12 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("MY First Branch");
-        Console.WriteLine("My first scritpt");
+        CocoJumbo();
+        void CocoJumbo() 
+        {
+            Console.WriteLine("MY First Branch");
+            Console.WriteLine("My first scritpt");
+            Console.WriteLine("AIDE BE");
+        }
     }
 }
