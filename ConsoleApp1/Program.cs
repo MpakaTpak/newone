@@ -3,6 +3,7 @@
     private static void Main(string[] args)
     {
         CocoJumbo();
+        Console.WriteLine("asd");
         void CocoJumbo() 
         {
             Console.WriteLine("MY First Branch");
